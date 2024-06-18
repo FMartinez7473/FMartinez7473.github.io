@@ -4,7 +4,7 @@
 
 # ABOUT ME
 > I am an incoming junior studying supply chain management and computer science.
-> Mostly focused on integrating data into supply chain decisions aided with program such as python, R, & SQL.
+> Mostly focused on integrating data into supply chain decisions geared towards scope 1, 2, 3 emissions.
 
   <tr>
   </tr>
