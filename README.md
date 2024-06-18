@@ -19,10 +19,16 @@
 ## PROFESSIONAL EXPERIENCE
 
 * Boston Consulting Group, Detroit, MI
-Summer Associate June 2023 – August 2023
+  <td>
+  Summer Associate
+  <td>
+  June 2023 – August 2023
+  <td>
    Created a financial forecasting model for a subsidiary of a major auto manufacturer based on market projections for a
   10-year analysis of their income sheet benchmarked with competitors’ initial growth in the market
+  <td>
    Developed an in-depth analysis of 15 fintechs at various phases of development to consolidate industry best practices
+    <td>  
    Launched project management transition plan from in-house developers to client developers for a multi-national rental
   company
 * Go to settings and set master branch as Github Pages source;
