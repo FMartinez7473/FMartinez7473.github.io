@@ -6,7 +6,6 @@
 > I am an incoming junior studying supply chain management and computer science.
 > Mostly focused on integrating data into supply chain decisions aided with program such as python, R, & SQL.
 
-<table>
   <tr>
   </tr>
   <tr>
