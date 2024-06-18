@@ -2,11 +2,9 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
-
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+# ABOUT ME
+> I am an incoming junior studying supply chain management and computer science.
+> Mostly focused on integrating data into supply chain decisions aided with program such as python, R, & SQL.
 
 <table>
   <tr>
