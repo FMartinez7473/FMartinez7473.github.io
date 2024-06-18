@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>
-        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
+        <img src="[https://online-cv.webjeda.com/assets/images/desktop.png?raw=true](https://media.licdn.com/dms/image/D5603AQGOVdyKL4HnZg/profile-displayphoto-shrink_400_400/0/1683938187159?e=1724284800&v=beta&t=QdbSgsgcWvt82tRFIlAnU5fHD5SjHixbW2NyGRS5WH8)" width="600"/>
     </td>
     <td>
         <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
