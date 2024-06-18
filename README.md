@@ -19,9 +19,13 @@
 ## PROFESSIONAL EXPERIENCE
 
 * Boston Consulting Group, Detroit, MI;
-  Summer Associate;
-* Boston Consulting Group, Detroit, MI;
-  Summer Associate;
+  Summer Associate
+* Rocket Companies, Detroit, MI;
+  Technology Operations Intern
+* MSU 180 Degrees Consulting Group, East Lansing, MI;
+  Project Manager 
+* Inertia Learning LLC, Online, MI;
+  Chief of Operations    
 
 Change all the details from one place: `_data/data.yml`.
 
