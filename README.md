@@ -20,6 +20,8 @@
 
 * Boston Consulting Group, Detroit, MI;
   Summer Associate;
+* Boston Consulting Group, Detroit, MI;
+  Summer Associate;
 
 Change all the details from one place: `_data/data.yml`.
 
